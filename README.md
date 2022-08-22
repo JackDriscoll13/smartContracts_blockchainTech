@@ -5,4 +5,4 @@ to learn more, I've begun developing my own smart contracts and deploying them t
 in combination with python, I am able to retrieve real world data and utilize it in smart contracts, which exist 
 on deterministic blockchain systems. 
 
-This work is ongoing and is nowhere near complete. 
+This work is ongoing.
